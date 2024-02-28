@@ -96,6 +96,44 @@ main{
     color: #FF900E;
     font-weight: 700;
 }
+/* .features styles here  */
+
+.features-container{
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 130px;
+}
+.more-texts .card{
+    padding: 30px ;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.left-border{
+    border-left: 5px solid #FF900E;
+    padding-left: 10px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* responsive styles */
 /* mobile devices */
